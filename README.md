@@ -1,6 +1,3 @@
-Here is the content from the second PDF converted into Markdown:
-
-```markdown
 # EXP 3: Evaluation of Prompting Tools Across Diverse AI Platforms
 
 ## Aim
@@ -103,6 +100,4 @@ An advanced AI system designed to understand and generate human language using d
 ## Conclusion
 
 By systematically evaluating different prompting tools, this experiment provides insights into the capabilities and limitations of various AI platforms. It also highlights strategies for effective user-AI interaction and prompt engineering.
-```
 
-Let me know if you need any modifications or additional formatting!
